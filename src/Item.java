@@ -1,4 +1,1 @@
-package PACKAGE_NAME;
-
-public class Item {
-}
+public record Item(VolumeInfo volumeInfo) {}
