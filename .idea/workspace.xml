@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ff67916-9366-4428-8edf-0ff6103df828" name="Changes" comment="Primeiro Projeto utilizando API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigooglebooks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/apigooglebooks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GoogleBooksResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GoogleBooksResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VolumeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VolumeInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731207103436</updated>
-      <workItem from="1731207104448" duration="7459000" />
+      <workItem from="1731207104448" duration="8140000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro Projeto utilizando API">
       <option name="closed" value="true" />
