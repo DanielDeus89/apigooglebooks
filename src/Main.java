@@ -35,7 +35,8 @@ public class Main {
             }else {
                 //For
                 for(Item item : items) {
-                    VolumeInfo volumeInfo = items.get(0).volumeInfo();
+                    VolumeInfo volumeInfo = item.volumeInfo();
+
                     System.out.println(volumeInfo);
                     System.out.println("--------------"); // Separador entre os livros
                 }
@@ -43,5 +44,6 @@ public class Main {
         }catch (JsonSyntaxException e) {
             System.out.println("Erro ao processar o livro");
         }
+
     }
 }
